@@ -8,10 +8,6 @@
 
 相关文章：https://mp.weixin.qq.com/s/D_I1Tq-ofhKhlp0rkOpaLA
 
-游戏截图（自定义了图案）：
-
-![游戏截图](doc/img.png)
-
 游戏特色：
 
 1. 支持选择难度（4 种）
